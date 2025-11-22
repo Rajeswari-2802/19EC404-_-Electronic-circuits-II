@@ -1,5 +1,5 @@
 ## Exp. No. 1(c)
-**Date:**  
+**Date:** 06.09.25
 
 ## FREQUENCY RESPONSE OF CURRENT SERIES FEEDBACK AMPLIFIER
 <img width="804" height="973" alt="image" src="https://github.com/user-attachments/assets/2ac932c7-64fa-4b6b-b572-2b3cfd8ae11a" />
@@ -13,16 +13,12 @@
 # With Feedback:
 <img width="533" height="283" alt="image" src="https://github.com/user-attachments/assets/d423c0cc-853d-4fb0-8316-c17b10cf49c8" />
 
-
 # Tabulation
-
+![WhatsApp Image 2025-11-22 at 14 09 55_ec25a010](https://github.com/user-attachments/assets/ab343033-ea23-49c1-ac08-1f2dbffbe1cf)
 
 # Graph
-
-
-# Sample images 
-
-
+![WhatsApp Image 2025-11-22 at 14 09 56_d07f359f](https://github.com/user-attachments/assets/debda558-3353-4621-91cb-e1adf50dde8d)
+ 
 ### **Result**
 
 Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
