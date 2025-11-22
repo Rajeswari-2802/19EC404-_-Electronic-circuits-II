@@ -1,5 +1,5 @@
 ## Exp. No. 2(a)
-**Date:**  
+**Date:** 04.10.25 
 
 ## DESIGN OF RC PHASE SHIFT OSCILLATOR
 <img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/d7a08edc-71f1-467d-9e20-747bdeee319d" />
@@ -15,15 +15,10 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|     5.11   |       32     |          3.12KHZ     |        5.8Khz          |
 
 # Graph
-
-
-
-# Sample images 
-
-
+![WhatsApp Image 2025-11-22 at 14 52 21_2752298f](https://github.com/user-attachments/assets/cd6abf49-cc62-4acd-988f-dbb7c29762fd)
 
 # Result
 
