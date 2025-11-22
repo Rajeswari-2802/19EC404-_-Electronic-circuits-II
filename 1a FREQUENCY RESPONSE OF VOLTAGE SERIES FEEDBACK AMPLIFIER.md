@@ -1,4 +1,3 @@
-## Exp. No. 1(a)
 **Date:**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
@@ -13,13 +12,11 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
-
+![Scanned_20251122-1335](https://github.com/user-attachments/assets/ff52b27e-891b-44c4-bbb2-2d53ea5329bc)
 
 ## Graph
 
-
-## Sample images 
-
+![WhatsApp Image 2025-11-22 at 13 40 21_a07b48db](https://github.com/user-attachments/assets/fa0fe45c-db18-4f0f-998a-18d25accb8e4)
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
