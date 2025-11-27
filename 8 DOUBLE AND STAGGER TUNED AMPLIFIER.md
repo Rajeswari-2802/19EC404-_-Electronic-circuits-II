@@ -1,6 +1,5 @@
 ## Exp. No. 8
-**Date:**  
-
+**Date:** 15.11.25
 ## DOUBLE AND STAGGER TUNED AMPLIFIER USING LTSPICE
 <img width="727" height="712" alt="image" src="https://github.com/user-attachments/assets/efde6031-f1ce-4355-b006-645d82ed15f1" />
 
@@ -16,6 +15,7 @@
 # Output Graph
 # DOUBLE  TUNED AMPLIFIER - output
 
+![WhatsApp Image 2025-11-27 at 13 40 52_79604a1e](https://github.com/user-attachments/assets/acc294b7-b140-4169-8f82-01b93eeeb5ce)
 
 # STAGGER TUNED AMPLIFIER - output
 
@@ -24,3 +24,5 @@
 
 # Result
 
+Thus the simulation of Double and Stagger using LTspice is done and verified
+successfully.
