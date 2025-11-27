@@ -1,5 +1,5 @@
 ## Exp. No. 8
-**Date:** 15.11.25
+**Date:** 22.11.25
 ## DOUBLE AND STAGGER TUNED AMPLIFIER USING LTSPICE
 <img width="727" height="712" alt="image" src="https://github.com/user-attachments/assets/efde6031-f1ce-4355-b006-645d82ed15f1" />
 
